@@ -1,0 +1,13 @@
+C:\Users\KEN-PC\source\repos\Veritas_RRD_KZM\Veritas_RRD_KZM\bin\Release\netcoreapp3.1\Veritas_RRD_KZM.exe
+C:\Users\KEN-PC\source\repos\Veritas_RRD_KZM\Veritas_RRD_KZM\bin\Release\netcoreapp3.1\Veritas_RRD_KZM.deps.json
+C:\Users\KEN-PC\source\repos\Veritas_RRD_KZM\Veritas_RRD_KZM\bin\Release\netcoreapp3.1\Veritas_RRD_KZM.runtimeconfig.json
+C:\Users\KEN-PC\source\repos\Veritas_RRD_KZM\Veritas_RRD_KZM\bin\Release\netcoreapp3.1\Veritas_RRD_KZM.runtimeconfig.dev.json
+C:\Users\KEN-PC\source\repos\Veritas_RRD_KZM\Veritas_RRD_KZM\bin\Release\netcoreapp3.1\Veritas_RRD_KZM.dll
+C:\Users\KEN-PC\source\repos\Veritas_RRD_KZM\Veritas_RRD_KZM\bin\Release\netcoreapp3.1\Veritas_RRD_KZM.pdb
+C:\Users\KEN-PC\source\repos\Veritas_RRD_KZM\Veritas_RRD_KZM\bin\Release\netcoreapp3.1\CsvHelper.dll
+C:\Users\KEN-PC\source\repos\Veritas_RRD_KZM\Veritas_RRD_KZM\obj\Release\netcoreapp3.1\Veritas_RRD_KZM.csprojAssemblyReference.cache
+C:\Users\KEN-PC\source\repos\Veritas_RRD_KZM\Veritas_RRD_KZM\obj\Release\netcoreapp3.1\Veritas_RRD_KZM.AssemblyInfoInputs.cache
+C:\Users\KEN-PC\source\repos\Veritas_RRD_KZM\Veritas_RRD_KZM\obj\Release\netcoreapp3.1\Veritas_RRD_KZM.AssemblyInfo.cs
+C:\Users\KEN-PC\source\repos\Veritas_RRD_KZM\Veritas_RRD_KZM\obj\Release\netcoreapp3.1\Veritas_RRD_KZM.csproj.CopyComplete
+C:\Users\KEN-PC\source\repos\Veritas_RRD_KZM\Veritas_RRD_KZM\obj\Release\netcoreapp3.1\Veritas_RRD_KZM.dll
+C:\Users\KEN-PC\source\repos\Veritas_RRD_KZM\Veritas_RRD_KZM\obj\Release\netcoreapp3.1\Veritas_RRD_KZM.pdb
